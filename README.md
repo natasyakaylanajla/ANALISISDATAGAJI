@@ -3,7 +3,7 @@ Natasya Kayla Najla_12030122140218
 Berikut adalah interpretasi dari data yang terdapat dalam file `Natasya.csv`:
 
 ### Deskripsi Umum Data
-Data dalam `data_baru.csv` terdiri dari 10 baris dengan 4 kolom yang menggambarkan informasi tentang karyawan dalam sebuah perusahaan. Kolom-kolom tersebut adalah:
+Data dalam `Natasya.csv` terdiri dari 10 baris dengan 4 kolom yang menggambarkan informasi tentang karyawan dalam sebuah perusahaan. Kolom-kolom tersebut adalah:
 
 - `age`: Usia karyawan dalam tahun.
 - `salary`: Gaji karyawan dalam USD per tahun.
