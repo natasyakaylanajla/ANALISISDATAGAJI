@@ -1,0 +1,11 @@
+age,salary,gender,department
+25,50000,male,Engineering
+30,60000,female,Marketing
+35,70000,male,Engineering
+28,48000,female,Sales
+40,80000,male,Marketing
+45,85000,female,Sales
+50,90000,male,HR
+32,65000,female,HR
+38,72000,male,Engineering
+29,53000,female,Marketing
